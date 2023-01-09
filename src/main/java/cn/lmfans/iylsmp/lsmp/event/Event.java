@@ -18,9 +18,11 @@ import java.util.Date;
 
 public class Event implements Listener {
 
-    final String URL = "jdbc:mysql://101.32.14.173:3306/iylsmp?characterEncoding=UTF-8";
-    final String PASSWORD = "liangmixx23";
-    final String USERNAME = "iylsmp";
+    final String URL = "jdbc:mysql://xxx:3306/xxxxx?characterEncoding=UTF-8";
+    final String PASSWORD = "xxxxxx";
+    final String USERNAME = "xxxxx";
+    //DataBase and DataBase Password
+   
 
     @EventHandler
 //   一个事件
