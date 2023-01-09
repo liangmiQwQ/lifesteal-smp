@@ -1,0 +1,7 @@
+name: Lsmp
+version: '${project.version}'
+main: cn.lmfans.iylsmp.lsmp.Lsmp
+api-version: 1.17
+authors: [ liangmi ]
+description: lsmp in iyjava
+website: none
