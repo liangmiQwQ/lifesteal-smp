@@ -1,6 +1,6 @@
 # **DataBase** simplementation Lifesteal Survival Multiplayer
 
-[中文文档](https://github.com/liangmiQwQ/lifesteal-smp/blob/main/chinese.md)
+[中文文档](https://github.com/liangmiQwQ/lifesteal-smp/blob/main/Chinese.md)
 
 > This project is recommended for members with Java foundation. Because part of it involves modifying code. The handicapped party recommends using other plugins.
 
